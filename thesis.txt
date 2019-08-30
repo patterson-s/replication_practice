@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello. Here is a trivial change.
 
 Adding another line...
@@ -11,3 +12,6 @@ AGAINNNNNN!NN!N!N!N!N!N!NN!N!N!N!N!
 
 
 dasfsfsdfasdfasdsdafsfsanflaksnlkasdvknsd;lkvdnlkasndkvdls
+=======
+LE VIDE
+>>>>>>> 607fa4ffe5beefcde166f18d5b8aabd7251fe1d4
